@@ -1,4 +1,4 @@
-﻿namespace Talaorasan.Shared.Requests.Transaction
+﻿namespace Talaorasan.Shared.Transaction
 {
     public class PersonDto
     {
